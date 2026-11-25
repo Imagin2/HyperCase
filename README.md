@@ -1,6 +1,6 @@
 # HyperCase — End-to-End Hyperbolic Retrieval for Long Legal Documents
 
-Anonymous code release accompanying the paper submission.
+Code release accompanying the paper submission.
 
 HyperCase is a single end-to-end retrieval framework: a segment-aware
 hierarchical encoder (SegCaseBERT) and a learnable projection into the
