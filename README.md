@@ -1,7 +1,16 @@
 # HyperCase — End-to-End Hyperbolic Retrieval for Long Legal Documents
 
-Code release accompanying the paper submission.
+This repository contains the official implementation accompanying the following accepted paper:
 
+HyperCase — End-to-End Hyperbolic Retrieval for Long Legal Documents
+
+Authors: Akram Benamar, Mohamed Djallel Dilmi, and Faten Chaieb Chakchouk.
+
+Venue: International Conference on Agents and Artificial Intelligence (ICAART 2027).
+
+Status: Accepted for publication. The camera-ready version is currently in preparation.
+
+This repository provides the code and resources required to reproduce the experiments reported in the paper.
 HyperCase is a single end-to-end retrieval framework: a segment-aware
 hierarchical encoder (SegCaseBERT) and a learnable projection into the
 Poincaré ball are trained jointly under one hyperbolic contrastive objective.
